@@ -58,7 +58,7 @@
         <repository>
             <id>cloudera-cdh</id>
             <name>Cloudera CDH</name>
-            <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+            <url>https://repository.cloudera.com/content/repositories/releases/</url>
         </repository>
     </repositories>
 
